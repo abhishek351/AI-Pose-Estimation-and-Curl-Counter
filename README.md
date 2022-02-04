@@ -6,8 +6,11 @@ A biceps curl counter based on human pose estimation. The idea is to make the us
 The counter doesn't tick if the range of motion during a bicep curl is within 40 degrees and 160 degrees. Hence to get the counter going, user has to curl and uncurl his/her biceps in a full range of motion. No cheating now!
 
 
+Pose Landmark Model (BlazePose GHUM 3D)
+The landmark model in MediaPipe Pose predicts the location of 33 pose landmarks (see figure below).
 
 
+![pose](https://user-images.githubusercontent.com/70373142/152560248-1f23beb5-d1aa-424b-a500-8ebcf080af3d.png)
 
 
 
@@ -21,8 +24,4 @@ The project is based on Mediapipe's Pose Estimation Model [Blazepose](https://ar
 
 
 
-Pose Landmark Model (BlazePose GHUM 3D)
-The landmark model in MediaPipe Pose predicts the location of 33 pose landmarks (see figure below).
 
-
-![pose](https://user-images.githubusercontent.com/70373142/152560248-1f23beb5-d1aa-424b-a500-8ebcf080af3d.png)
