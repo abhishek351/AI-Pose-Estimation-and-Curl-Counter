@@ -24,4 +24,5 @@ The project is based on Mediapipe's Pose Estimation Model [Blazepose](https://ar
 Pose Landmark Model (BlazePose GHUM 3D)
 The landmark model in MediaPipe Pose predicts the location of 33 pose landmarks (see figure below).
 
-pose.png
+
+![pose](https://user-images.githubusercontent.com/70373142/152560248-1f23beb5-d1aa-424b-a500-8ebcf080af3d.png)
